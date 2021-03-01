@@ -6,7 +6,7 @@
 <img src="https://avatars2.githubusercontent.com/u/29940671?s=460&v=4" width="70">
 </p>
 
-# Minikube Workshop by Alfie Chen
+# Minikube Workshop 
 
 * [Description](https://github.com/acinwinstack/minikube-intro-workshop#description)
 * [Prerequisites](https://github.com/acinwinstack/minikube-intro-workshop#prerequisites)
